@@ -44,7 +44,7 @@ In addition to these advancements in blockchain and token technology, Steem as a
 This is all done while providing users with three second confirmation times and zero fees on all transactions.
 All of this allows it to support the mission of bringing smart and social currency to publishers and community builders across the Internet.
 
-## Proof of Brain: Smart and Social Tokens
+## Dowód posiadania mózgu: mądre tokeny
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 
