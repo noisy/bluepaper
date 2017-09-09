@@ -54,16 +54,16 @@ Jednym z najbardziej innowacyjnych aspektów (i najbardziej niezrozumiałym) blo
 Aby zrozumieć, czym jest Pula nagród, najpierw należy zrozumieć, że tokeny są tworzone inaczej w blockchainach DPoS niż w blockchainach PoW.
 W tradycyjnych blockchainach PoW tokeny są tworzone regularnie, ale losowo rozdzielane do osób, których maszyny wykonały pracę ("górnicy").
 
-Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds.
-These tokens get distributed to various actors in the system based on the defined rules of the blockchain.
-These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens.
-Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
+Inaczej niż w kryptowalutach opartych wyłącznie na PoW, tokeny w Steem są tworzony ze stałym tempem jednego bloku co trzy sekundy.
+Te tokeny są rozdzialane wśród wielu uczestników systemu na podstawie zasad ustalonych przez blockchain.
+Ci uczestnicy, tacy jak autorzy treści, delegaci czy kuratorzy, konkurują ze sobą w konkretny sposób dla tokenów.
+W przeciwieństwie do tradycyjnych metod dystrybucji PoW, w której górnicy konkurują surową mocą obliczeniową, uczestnicy w sieci Steem są zachęcani do konkurowania w taki sposób, aby zwiększać wartość sieci.
 
 Tempo, w którym nowe tokeny są tworzone, zostało ustalone na 9,5% rocznie, zaczynając w grudniu 2016, a obniżane jest o 0,01% co 250 tys. bloków lub o około 0,5% na rok.
 Inflacja będzie dalej opadać w tym tempie aż do osiągnięcia 0,95% po około 20,5 latach.
 
-Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators.
-15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
+Z zasobu nowych tokenów stworzonych przez blockchain Steem każdego roku, 75% z tych tokenów tworzy "Pulę nagród", które są rodzielane wśród twórców i kuratorów treści.
+15% jest rozdzielane wśród posiadaczy tokenów, a 10% wśród Delegatów, współpracujących twórców bloków w ramach steemowego protokołu konsensusu DPoS.
 
 #### Rewards for Content Creators and Curators
 
