@@ -22,13 +22,14 @@ header-includes:
 \pagecolor{myblue}
 \thispagestyle{firstpagestyle}
 
-\textcolor{mygray}{A protocol for enabling smart, social currency for publishers and content businesses across the internet}
+\textcolor{mygray}{Protokół umożliwiający istnienie inteligetnej społecznościowej waluty dla wydawców oraz biznesów opartych o tworzenie treści w internecie}
 
-## Introduction
 
-Steem provides a scalable blockchain protocol[^fn1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^fn2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”).
-The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence.
-Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^fn3]
+## Wstęp
+
+Steem udostępnia skalowalny protokuł oparty o blockchain[^fn1] dla nieedytowalnych danych ogólnego dostępu, wraz z szybkim i wolnym od opłat transakcynych cyfrowym tokenem (zwanym STEEM)[^fn2], który umożliwia zarobek waluty za pomocą zdolności własnego muzgu (co można nazwać "Proof-of-Brain").
+Dwa części składowe owego protokołu, blockchain oraz token, zależą od siebie ze względu na bezpieczeństwo, nieedytowalność i długowieczność, a więc są nieodzowną częścią swojego wspólnego istnienia.
+Steem z powodzeniem działa od ponad roku, wyprzedzając ostatnio zarówno Bitcoina jak i Ethereum pod względem przetworzonej liczby transakcji.[^fn3]
 
 Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism.
 This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
