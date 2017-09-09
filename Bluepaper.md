@@ -48,19 +48,19 @@ All of this allows it to support the mission of bringing smart and social curren
 
 Token systems that reward users as they contribute to a token-based community system require mechanisms for establishing and evaluating content’s social value: we call this “Proof-of-Brain.”
 
-### The Rewards Pool (“Where do the tokens come from?”)
+### Pula nagród ("Skąd się biorą te tokeny?")
 
-One of the most innovative (and most misunderstood) aspects of the Steem blockchain is the “Rewards Pool” from which tokens are distributed to valuable content creators.
-In order to understand what the Rewards Pool is, one first needs to understand that tokens are produced differently in DPoS blockchains than they are in PoW blockchains.
-In traditional PoW blockchains, tokens are produced regularly but randomly distributed to the people whose machines are performing work (“miners”).
+Jednym z najbardziej innowacyjnych aspektów (i najbardziej niezrozumiałym) blockchaina Steem jest "Pula nagród", z której tokeny są rozdzialane wśród twórców wartościowych treści.
+Aby zrozumieć, czym jest Pula nagród, najpierw należy zrozumieć, że tokeny są tworzone inaczej w blockchainach DPoS niż w blockchainach PoW.
+W tradycyjnych blockchainach PoW tokeny są tworzone regularnie, ale losowo rozdzielane do osób, których maszyny wykonały pracę ("górnicy").
 
 Different from PoW-only cryptocurrencies, tokens in Steem are generated at a fixed rate of one block every three seconds.
 These tokens get distributed to various actors in the system based on the defined rules of the blockchain.
 These actors, such as content creators, witnesses, and curators, compete in specialized ways for the tokens.
 Unlike the traditional PoW means of distribution, where miners are competing over raw computing power, the actors in the Steem network are incentivized to compete in ways that add value to the network.
 
-The rate that new tokens are generated was set to 9.5% per year starting in December 2016, and decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year.
-The inflation will continue decreasing at this rate until it reaches 0.95%, after a period of approximately 20.5 years.
+Tempo, w którym nowe tokeny są tworzone, zostało ustalone na 9,5% rocznie, zaczynając w grudniu 2016, a obniżane jest o 0,01% co 250 tys. bloków lub o około 0,5% na rok.
+Inflacja będzie dalej opadać w tym tempie aż do osiągnięcia 0,95% po około 20,5 latach.
 
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators.
 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
