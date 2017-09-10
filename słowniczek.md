@@ -6,3 +6,4 @@ W tym miejscu definiujemy wszystkie tłumaczenia oficjalnych pojęć steemowych
 | -- | -- | -----|
 | Witness | Delegat | |
 | Rewards Pool | Pula nagród | |
+| stake-weighted voting system | system wagi udziału głosu | |
