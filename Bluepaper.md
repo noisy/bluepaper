@@ -27,7 +27,7 @@ header-includes:
 
 ## Wstęp
 
-Steem udostępnia skalowalny protokuł oparty o blockchain[^fn1] dla nieedytowalnych danych ogólnego dostępu, wraz z szybkim i wolnym od opłat transakcynych cyfrowym tokenem (zwanym STEEM)[^fn2], który umożliwia zarobek waluty za pomocą zdolności własnego muzgu (co można nazwać "Proof-of-Brain").
+Steem udostępnia skalowalny protokuł oparty o blockchain[^fn1] dla nieedytowalnych danych ogólnego dostępu, wraz z szybkim i wolnym od opłat transakcynych cyfrowym tokenem (zwanym STEEM)[^fn2], który umożliwia zarobek waluty za pomocą zdolności własnego mózgu (co można nazwać "Proof-of-Brain").
 Dwie części składowe owego protokołu, blockchain oraz token, zależą od siebie ze względu na bezpieczeństwo, nieedytowalność i długowieczność, a więc są nieodzowną częścią swojego wspólnego istnienia.
 Steem z powodzeniem działa od ponad roku, wyprzedzając ostatnio zarówno Bitcoina jak i Ethereum pod względem przetworzonej liczby transakcji.[^fn3]
 
