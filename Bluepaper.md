@@ -31,7 +31,7 @@ Steem zapewnia skalowalny protokół oparty o blockchain[^fn1] dla nieedytowalny
 Dwie części składowe owego protokołu, blockchain oraz token, zależą od siebie ze względu na bezpieczeństwo, nieedytowalność i długowieczność, a więc są nieodzowną częścią swojego wspólnego istnienia.
 Steem z powodzeniem działa od ponad roku, wyprzedzając ostatnio zarówno Bitcoina jak i Ethereum pod względem przetworzonej liczby transakcji.[^fn3]
 
-W porównaniu do innych blockchainów, Steem wyróżnia się będąc pierwszą publicznie dostępną bazą danych dla treści (w postaci czystego tekstu) zapisanych w nieedytowalny sposób, posiadając jako blockchain wbudowane mechanizmy motywujące.
+W porównaniu do innych blockchainów, Steem wyróżnia się jako pierwsza publicznie dostępna baza danych dla treści (w postaci czystego tekstu) zapisanych w nieedytowalny sposób, posiadając jako blockchain wbudowane mechanizmy motywujące.
 To czyni ze Steema ogólnodostępną platformę wydawniczą, z której wszelkie aplikacje internetowe mogą pobierać i udostępniać treści, korzystając z faktu, że Ci którzy dostarczyli najbardziej wartościowe treści, zostaną za to wynagrodzeni.
 
 In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether.
