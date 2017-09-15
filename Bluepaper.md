@@ -65,12 +65,12 @@ The inflation will continue decreasing at this rate until it reaches 0.95%, afte
 Of the supply of new tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators.
 15% are distributed to vested token holders, and 10% are distributed to Witnesses, the block producers cooperating inside Steem’s DPoS consensus protocol.
 
-#### Rewards for Content Creators and Curators
+#### Nagrody dla twórców i kuratorów treści
 
-The users who produce content are adding value to the network by creating material that will drive new users to the platform, as well as keep the existing users engaged and entertained.
-This aids in distributing the currency to a wider set of users and increases the network effect.
-The users that take time to evaluate and vote on content are playing an important role in distributing the currency to the users who are adding the most value.
-The blockchain rewards both of these activities relative to their value based on the collective wisdom of the crowd collected through the stake-weighted voting system.
+Użytkownicy tworzący treści dodają wartość do sieci przez tworzenie materiałów, które przyciągają nowych użytkowników do platformy, a także utrzymują zaangażowanie i zainteresowanie już istniejących użytkowników.
+To pomaga w dystrybucji waluty do szerszego grona użytkowników i zwiększa efekt sieci.
+Użytkownicy, którzy poświęcają czas na ocenę i głosowanie na treści, odgrywają ważną rolę w dystrybucji waluty do użytkowników dodających najwięcej wartości.
+Blockchain nagradza obie te czynności w oparciu o ich wartość na podstawie zbiorowej mądrości tłumu zebranej w systemie wagi udziału głosu.
 
 #### Voting with Staked-Tokens to Determine Allocation of Rewards
 
