@@ -22,22 +22,24 @@ header-includes:
 \pagecolor{myblue}
 \thispagestyle{firstpagestyle}
 
-\textcolor{mygray}{A protocol for enabling smart, social currency for publishers and content businesses across the internet}
+\textcolor{mygray}{Protokół umożliwiający istnienie inteligetnej społecznościowej waluty dla wydawców oraz biznesów opartych o tworzenie treści w internecie}
 
-## Introduction
 
-Steem provides a scalable blockchain protocol[^fn1] for publicly accessible and immutable content, along with a fast and fee-less digital token (called STEEM)[^fn2] which enables people to earn the currency by using their brain (what can be called “Proof-of-Brain”).
-The two building blocks of this protocol, both blockchain and token, depend on each other for security, immutability and longevity, and are therefore integral to each others’ existence.
-Steem has been successfully operating for over a year, and has now exceeded both Bitcoin and Ethereum in number of transactions processed.[^fn3]
+## Wstęp
 
-Compared to other blockchains, Steem stands out as the first publicly accessible database for immutably stored content in the form of plain text, along with an in-built incentivization mechanism.
-This makes Steem a public publishing platform from which any Internet application may pull and share data while rewarding those who contribute the most valuable content.
+Steem zapewnia skalowalny protokół oparty o blockchain[^fn1] dla nieedytowalnych danych ogólnego dostępu, wraz z szybkim i wolnym od opłat transakcynych cyfrowym tokenem (zwanym STEEM)[^fn2], który umożliwia ludziom zarabianie waluty, używając zdolności własnego mózgu (co można nazwać "Proof-of-Brain").
+Dwie części składowe owego protokołu, blockchain oraz token, zależą od siebie ze względu na bezpieczeństwo, nieedytowalność i długowieczność, a więc są nieodzowną częścią swojego wspólnego istnienia.
+Steem z powodzeniem działa od ponad roku, wyprzedzając ostatnio zarówno Bitcoina jak i Ethereum pod względem przetworzonej liczby transakcji.[^fn3]
 
-In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether.
-This stems from two new token features.
-The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”).
-The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it.
-These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^fn4], meant to emphasize the human work required to distribute tokens to community participants.
+W porównaniu do innych blockchainów, Steem wyróżnia się jako pierwsza publicznie dostępna baza danych dla treści (w postaci czystego tekstu) zapisanych w nieedytowalny sposób, posiadając jako blockchain wbudowane mechanizmy motywujące.
+To czyni ze Steema ogólnodostępną platformę wydawniczą, z której wszelkie aplikacje internetowe mogą pobierać i udostępniać treści, korzystając z faktu, że Ci którzy dostarczyli najbardziej wartościowe treści, zostaną za to wynagrodzeni.
+
+W porównaniu do innych kryptowalut jak bitcoin i ether, unikalne właściwości STEEM czynią go społecznościowym "smart" tokenem.
+Wynika to z dwóch nowych jego cech.
+Pierwsza z nich to pula tokenów przeznaczona do motywowania do tworzenia treści i kuracji (tzw. "pula nagród").
+Druga z nich, to system głosowania, który wykorzystuje mądrość tłumu do oceny wartości treści i dystrybucji tokenów.
+Te dwie unikalne właściwości działajac wspólnie są określane jako "Proof-of-Brain", co jest dwuznacznikiem bazującym na określeniu Proof-of-Work[^fn4], mającym za zadanie podkreślenie, że ludzka praca jest niezbędna w procesie dystrybuowania tokenów do członków spłeczności.
+
 Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
 
 In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^fn5], escrow services, user promoted content, a reputation system, and savings accounts.
