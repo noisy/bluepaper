@@ -34,11 +34,12 @@ Steem z powodzeniem działa od ponad roku, wyprzedzając ostatnio zarówno Bitco
 W porównaniu do innych blockchainów, Steem wyróżnia się jako pierwsza publicznie dostępna baza danych dla treści (w postaci czystego tekstu) zapisanych w nieedytowalny sposób, posiadając jako blockchain wbudowane mechanizmy motywujące.
 To czyni ze Steema ogólnodostępną platformę wydawniczą, z której wszelkie aplikacje internetowe mogą pobierać i udostępniać treści, korzystając z faktu, że Ci którzy dostarczyli najbardziej wartościowe treści, zostaną za to wynagrodzeni.
 
-In the field of crypto-currencies, the unique properties of STEEM make it both “smart” and “social”compared to others, such as bitcoin and ether.
-This stems from two new token features.
-The first is a pool of tokens dedicated to incentivizing content creation and curation (called the “rewards pool”).
-The second is a voting system that leverages the wisdom of the crowd to assess the value of content and distribute tokens to it.
-These two unique properties when combined are referred to as Proof-of-Brain, which is an entendre based on Proof-of-Work[^fn4], meant to emphasize the human work required to distribute tokens to community participants.
+W porównaniu do innych kryptowalut jak bitcoin i ether, unikalne właściwości STEEM czynią go społecznościowym "smart" tokenem.
+Wynika to z dwóch nowych jego cech.
+Pierwsza z nich to pula tokenów przeznaczona do motywowania do tworzenia treści i kuracji (tzw. "pula nagród").
+Druga z nich, to system głosowania, który wykorzystuje mądrość tłumu do oceny wartości treści i dystrybucji tokenów.
+Te dwie unikalne właściwości działajac wspólnie są określane jako "Proof-of-Brain", co jest dwuznacznikiem bazującym na określeniu Proof-of-Work[^fn4], mającym za zadanie podkreślenie, że ludzka praca jest niezbędna w procesie dystrybuowania tokenów do członków spłeczności.
+
 Proof-of-Brain positions STEEM as a tool for building perpetually growing communities, which encourage their members to add value to the community through the built in rewards structure.
 
 In addition to these advancements in blockchain and token technology, Steem as a system provides additional advanced features to enhance the user experience, such as Stolen Account Recovery[^fn5], escrow services, user promoted content, a reputation system, and savings accounts.
